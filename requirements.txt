@@ -1,0 +1,6 @@
+fastapi
+pydantic
+uvicorn
+crewai
+crewai[tools]
+python-decouple==3.8
